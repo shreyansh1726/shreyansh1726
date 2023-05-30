@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me mailto:shreyanshchaturvedi07@gmail.com 
+- 📫 How to reach me [Email](mailto:shreyanshchaturvedi07@gmail.com)
 
 <!---
 shreyansh1726/shreyansh1726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
